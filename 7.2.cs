@@ -7,7 +7,7 @@
 //     private double jumpDistance;
 //     private double totalScore;
 
-//     // Конструктор класса
+//     // конструктор класса
 //     public Competitor(string lastName, double[] styleScores, double jumpDistance)
 //     {
 //         this.lastName = lastName;
@@ -96,7 +96,8 @@
 //                 }
 //             }
 //         }
-
+//         Console.WriteLine("Соревнования по прыжкам в длину на лыжах");
+//         Console.WriteLine("----------------------------------------");
 //         Console.WriteLine("Результаты:");
 //         for (int i = 0; i < competitors.Length; i++)
 //         {
