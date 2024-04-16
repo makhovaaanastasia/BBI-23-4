@@ -12,7 +12,7 @@
 //         public Participant(string name, double?[] jumps)
 //         {
 //             Name = name;
-//             Jumps = jumps;
+//             Jumps = jumps;//из массива jumps
 //             BestJump = CalculateBestJump();
 //             Disqualified = false;
 //         }
